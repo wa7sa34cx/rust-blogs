@@ -1,8 +1,8 @@
 # Rust Blogs
 
-- Luca Palmieri - [lpalmieri.com](https://www.lpalmieri.com/)
-- Waffle Lapkin - [ihatereality.space](https://ihatereality.space/)
-- Hirrolot - [hirrolot.github.io](https://hirrolot.github.io/)
-- Tim - [tms-dev-blog.com](https://tms-dev-blog.com/)
-- Aleksey Kladov - [matklad.github.io](https://matklad.github.io/)
-- Pietro Albini - [pietroalbini.org](https://www.pietroalbini.org/blog/)
+- [lpalmieri.com](https://www.lpalmieri.com/) - Luca Palmieri
+- [ihatereality.space](https://ihatereality.space/) - Waffle Lapkin
+- [hirrolot.github.io](https://hirrolot.github.io/) - Hirrolot
+- [tms-dev-blog.com](https://tms-dev-blog.com/) - Tim
+- [matklad.github.io](https://matklad.github.io/) - Aleksey Kladov
+- [pietroalbini.org](https://www.pietroalbini.org/blog/) - Pietro Albini
