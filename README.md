@@ -1,6 +1,10 @@
 # Rust Blogs
 
+- [christopherbiscardi.com](https://www.christopherbiscardi.com/garden) - Christopher Biscardi
+- [domenicoluciani.com](https://domenicoluciani.com/) - Domenico Luciani
+- [fasterthanli.me](https://fasterthanli.me/) - Amos
 - [hirrolot.github.io](https://hirrolot.github.io/) - Hirrolot
+- [hoverbear.org](https://hoverbear.org/blog/) - Ana Hobden
 - [ihatereality.space](https://ihatereality.space/) - Waffle Lapkin
 - [lpalmieri.com](https://www.lpalmieri.com/) - Luca Palmieri
 - [lucumr.pocoo.org](https://lucumr.pocoo.org/) - Armin Ronacher
@@ -8,3 +12,6 @@
 - [tms-dev-blog.com](https://tms-dev-blog.com/) - Tim
 - [pietroalbini.org](https://www.pietroalbini.org/blog/) - Pietro Albini
 - [smallcultfollowing.com](https://smallcultfollowing.com/babysteps/) - Niko Matsakis
+- [steveklabnik.com](https://steveklabnik.com/) - Steve Klabnik
+- [ultrasaurus.com](https://ultrasaurus.com/) - Sarah Allen
+- [without.boats](https://without.boats/blog/) - Saoirse Shipwreckt
