@@ -9,6 +9,7 @@
 - [lpalmieri.com](https://www.lpalmieri.com/) - Luca Palmieri
 - [lucumr.pocoo.org](https://lucumr.pocoo.org/) - Armin Ronacher
 - [matklad.github.io](https://matklad.github.io/) - Aleksey Kladov
+- [tim.mcnamara.nz](https://tim.mcnamara.nz/) - Tim McNamara
 - [tms-dev-blog.com](https://tms-dev-blog.com/) - Tim
 - [pietroalbini.org](https://www.pietroalbini.org/blog/) - Pietro Albini
 - [smallcultfollowing.com](https://smallcultfollowing.com/babysteps/) - Niko Matsakis
