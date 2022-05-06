@@ -1,5 +1,6 @@
 # Rust Blogs
 
+- [blog.m-ou.se](https://blog.m-ou.se/) - Mara Bos
 - [christopherbiscardi.com](https://www.christopherbiscardi.com/garden) - Christopher Biscardi
 - [domenicoluciani.com](https://domenicoluciani.com/) - Domenico Luciani
 - [fasterthanli.me](https://fasterthanli.me/) - Amos
