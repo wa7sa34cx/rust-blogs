@@ -7,6 +7,7 @@
 - [hirrolot.github.io](https://hirrolot.github.io/) - Hirrolot
 - [hoverbear.org](https://hoverbear.org/blog/) - Ana Hobden
 - [ihatereality.space](https://ihatereality.space/) - Waffle Lapkin
+- [kerkour.com](https://kerkour.com/) - Sylvain Kerkour
 - [lpalmieri.com](https://www.lpalmieri.com/) - Luca Palmieri
 - [lucumr.pocoo.org](https://lucumr.pocoo.org/) - Armin Ronacher
 - [matklad.github.io](https://matklad.github.io/) - Aleksey Kladov
