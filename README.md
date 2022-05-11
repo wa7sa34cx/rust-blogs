@@ -1,4 +1,7 @@
+A neat list of bloggers writing about [Rust](https://www.rust-lang.org/). Help me find more decent blogs, do a PR!
+
 # Rust Blogs
+Sites are listed in alphabetical order according to the domain name without www.
 
 - [blog.m-ou.se](https://blog.m-ou.se/) - Mara Bos
 - [christopherbiscardi.com](https://www.christopherbiscardi.com/garden) - Christopher Biscardi
