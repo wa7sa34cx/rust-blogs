@@ -18,4 +18,5 @@ A neat list of bloggers writing about [Rust](https://www.rust-lang.org/). Help m
 - [smallcultfollowing.com](https://smallcultfollowing.com/babysteps/) - Niko Matsakis
 - [steveklabnik.com](https://steveklabnik.com/) - Steve Klabnik
 - [ultrasaurus.com](https://ultrasaurus.com/) - Sarah Allen
+- [vorner.github.io](https://vorner.github.io/) - Michal Vaner
 - [without.boats](https://without.boats/blog/) - Saoirse Shipwreckt
