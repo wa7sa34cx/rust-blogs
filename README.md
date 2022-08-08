@@ -13,8 +13,9 @@ A neat list of bloggers writing about [Rust](https://www.rust-lang.org/). Help m
 - [lucumr.pocoo.org](https://lucumr.pocoo.org/) - Armin Ronacher
 - [matklad.github.io](https://matklad.github.io/) - Aleksey Kladov
 - [tim.mcnamara.nz](https://tim.mcnamara.nz/) - Tim McNamara
-- [tms-dev-blog.com](https://tms-dev-blog.com/) - Tim
+- [tms-dev-blog.com](https://tms-dev-blog.com/) - Tim ???
 - [pietroalbini.org](https://www.pietroalbini.org/blog/) - Pietro Albini
+- [seanmonstar.com](https://seanmonstar.com/) - Sean McArthur
 - [smallcultfollowing.com](https://smallcultfollowing.com/babysteps/) - Niko Matsakis
 - [steveklabnik.com](https://steveklabnik.com/) - Steve Klabnik
 - [ultrasaurus.com](https://ultrasaurus.com/) - Sarah Allen
